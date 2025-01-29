@@ -26,10 +26,7 @@ The **Personalized News Aggregator** is a **React Native mobile application** th
 5️⃣ **Tab navigation** provides a seamless experience across **Home, Categories, Bookmarks, Search, and Settings** screens.  
 
 ### **Setup & Installation**  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/News-Aggregator-App.git
-   ```  
+1. Clone this repository.
 2. Navigate to the project directory:  
    ```bash
    cd News-Aggregator-App
