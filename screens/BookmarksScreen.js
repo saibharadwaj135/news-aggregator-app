@@ -18,7 +18,7 @@ const BookmarksScreen = () => {
           keyExtractor={item => item.url}
         />
       ) : (
-        <Text style={[styles.emptyText, { color: colors.text }]}>No bookmarked articles yet.</Text>
+        <Text style={[styles.emptyText, { color: colors.text }]}>No bookmarked Sai articles yet.</Text>
       )}
     </View>
   );
